@@ -1,0 +1,1 @@
+C:\Users\pc\Desktop\rust\Checkpoint-04-rust\min_and_max\target\debug\min_and_max.exe: C:\Users\pc\Desktop\rust\Checkpoint-04-rust\min_and_max\src\lib.rs C:\Users\pc\Desktop\rust\Checkpoint-04-rust\min_and_max\src\main.rs

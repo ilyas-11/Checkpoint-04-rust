@@ -1,0 +1,1 @@
+C:\Users\pc\Desktop\rust\Checkpoint-04-rust\count_factorial_steps\target\debug\count_factorial_steps.exe: C:\Users\pc\Desktop\rust\Checkpoint-04-rust\count_factorial_steps\src\lib.rs C:\Users\pc\Desktop\rust\Checkpoint-04-rust\count_factorial_steps\src\main.rs
